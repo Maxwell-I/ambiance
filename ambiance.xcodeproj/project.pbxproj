@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		425D295C28E91F250037BFA9 /* ambiance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ambiance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		425D295F28E91F250037BFA9 /* ambianceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ambianceApp.swift; sourceTree = "<group>"; };
-		425D296128E91F250037BFA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		425D296128E91F250037BFA9 /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 14; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 14; };
 		425D296328E91F280037BFA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		425D296628E91F280037BFA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
